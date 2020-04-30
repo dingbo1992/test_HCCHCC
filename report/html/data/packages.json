@@ -1,0 +1,35 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "good_idea.test_login",
+    "children" : [ {
+      "name" : "test_login",
+      "uid" : "9a86a1f9b96ec2ed",
+      "parentUid" : "926c9816bcad289fee7c584274eed777",
+      "status" : "passed",
+      "time" : {
+        "start" : 1587730963111,
+        "stop" : 1587730963111,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "test_login2",
+      "uid" : "9c76f2a498d0f6ec",
+      "parentUid" : "926c9816bcad289fee7c584274eed777",
+      "status" : "passed",
+      "time" : {
+        "start" : 1587730963113,
+        "stop" : 1587730963113,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "good_idea.test_login"
+  } ]
+}
